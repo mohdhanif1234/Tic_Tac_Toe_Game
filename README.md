@@ -1,2 +1,2 @@
 # Tic_Tac_Toe_Game
-# Welcome to Tic Tac Toe game.
+# This branch contains the code to create an empty array for thr Tic Tac Toe game.
